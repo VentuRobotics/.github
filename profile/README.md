@@ -20,7 +20,7 @@ The name "VentuRobotics" is a fusion of "Venture," indicating a willingness to u
 - **Restricted Accessibility and Conscious Engagement:** We believe in creating technology that serves a purpose, not a status symbol. Our products are designed for those who need them most. We encourage thoughtful and informed engagement with our products, promoting conscious purchasing decisions to ensure our efforts are focused and impactful.
 - **Education and Community Engagement:** We are dedicated to educating and inspiring the next generation of robotics engineers and enthusiasts, providing resources and learning opportunities to support their growth. We actively seek to engage with and support the communities we serve, often collaborating with local organizations, educational institutions, and non-profits to ensure a broader positive impact.
 - **Integrity in Communication:** We prioritize transparent and honest communication, focusing on the value and impact of our technologies rather than mass appeal or exclusivity. Our approach to marketing is grounded in the real benefits and applications of our work, ensuring that our message is clear and genuine.
-- **Adaptability:**: In a rapidly evolving field, we embrace change and flexibility. Our approach is agile, allowing us to adapt quickly to new challenges and opportunities, ensuring we remain at the forefront of robotics technology.
+- **Adaptability:** In a rapidly evolving field, we embrace change and flexibility. Our approach is agile, allowing us to adapt quickly to new challenges and opportunities, ensuring we remain at the forefront of robotics technology.
 
 
 
@@ -43,6 +43,7 @@ Our projects leverage cutting-edge technologies to ensure high performance and a
 - ***Simulation and Visualization***: Utilizing high-fidelity simulation and visualization tools to model, test, and optimize robotic systems.
 - ***Tracking, Monitoring, and Diagnostics***: Building robust systems for tracking, monitoring, and diagnosing the performance and health of our robots.
 - ***GUI*** (Graphical User Interface): Designing intuitive and user-friendly interfaces to facilitate interaction and control of our robotic systems.
+- ***AI*** (Artificial Intelligence): Harnessing the power of AI to enable autonomous decision-making, learning, and adaptation in complex environments, enhancing the intelligence and capabilities of our robotic systems.
 
 
 ## Core Proposal
@@ -64,7 +65,9 @@ Whether you're a seasoned professional or just starting out in the world of robo
 
 ## Contact Us
 
-For more information about VentuRobotics or to inquire about collaboration opportunities, please contact us at [ruotolovincenzo94@gmail.com](mailto:ruotolovincenzo94@gmail.com).
+For more information about VentuRobotics or to inquire about collaboration opportunities, please contact us:
+- Vincenzo Ruotolo (Founder): [ruotolovincenzo94@gmail.com](mailto:ruotolovincenzo94@gmail.com)
+- Cesar Gomez (Co-Founder): [gomezgabriel09@gmail.com](mailto:gomezgabriel09@gmail.com)
 
 
 
