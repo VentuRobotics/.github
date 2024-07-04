@@ -8,7 +8,7 @@ VentuRobotics started as an individual project with a focus on innovation in the
 
 ## Manifesto
 
-The name "VentuRobotics" is a fusion of "Venture," indicating a willingness to undertake new and risky projects with the potential for innovation, and "Robotics." This combination implies a bold and pioneering spirit in the realm of robotics, emphasizing both the adventurous nature of the venture and its specific focus on robotics technology. It suggests a forward-thinking, innovative approach to solving problems and advancing the field, with a focus on exploration, innovation, and pushing the boundaries of current technology.
+The name "VentuRobotics" is a fusion of "Venture" indicating a willingness to undertake new and risky projects with the potential for innovation, and "Robotics." This combination implies a bold and pioneering spirit in the realm of robotics, emphasizing both the adventurous nature of the venture and its specific focus on robotics technology. It suggests a forward-thinking, innovative approach to solving problems and advancing the field, with a focus on exploration, innovation, and pushing the boundaries of current technology.
 
 
 
