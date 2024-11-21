@@ -67,7 +67,6 @@ Whether you're a seasoned professional or just starting out in the world of robo
 
 For more information about VentuRobotics or to inquire about collaboration opportunities, please contact us:
 - Vincenzo Ruotolo (Founder): [ruotolovincenzo94@gmail.com](mailto:ruotolovincenzo94@gmail.com)
-- Cesar Gomez (Co-Founder): [gomezgabriel09@gmail.com](mailto:gomezgabriel09@gmail.com)
 
 
 
